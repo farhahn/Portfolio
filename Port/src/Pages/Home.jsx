@@ -104,8 +104,8 @@ const Home = () => {
                             <Image
                                 borderRadius='full'
                                 boxSize='250px'
-                                src='/portfolio-profile-pic.png'
-                                alt='Atanu Karmakar Avatar' />
+                                src='../public/portfolio-profile-pic.png'
+                                alt='Mo Farhan Avatar' />
                             <Svg3 />
                         </Flex>
 
