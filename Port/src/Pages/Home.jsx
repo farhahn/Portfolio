@@ -233,7 +233,7 @@ const Home = () => {
                                 </Tooltip>
                             </Link>
 
-                            <Link href='https://www.linkedin.com/in/mo-farhan786/' target="_blank">
+                            <Link href='linkedin.com/in/mo-farhan786/' target="_blank">
                                 <Tooltip label='Mo-Farhan'>
                                     <Box className='social-icons'>
                                         <Box>
