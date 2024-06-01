@@ -223,7 +223,7 @@ const Home = () => {
                             </HStack>
                         </Flex>
                         <Flex gap={["10px", "20px", "20px", "40px"]}>
-                            <Link href='https://wa.me/916304330391' target="_blank">
+                            <Link href='https://wa.me/916394330391' target="_blank">
                                 <Tooltip label='+91 6394330391'>
                                     <Box className='social-icons'>
                                         <Box>
@@ -233,7 +233,7 @@ const Home = () => {
                                 </Tooltip>
                             </Link>
 
-                            <Link href='linkedin.com/in/mo-farhan786' target="_blank">
+                            <Link href='https://www.linkedin.com/in/mo-farhan786/' target="_blank">
                                 <Tooltip label='Mo-Farhan'>
                                     <Box className='social-icons'>
                                         <Box>
