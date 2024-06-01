@@ -5,6 +5,7 @@ import emailjs from '@emailjs/browser';
 import Aos from 'aos';
 import 'aos/dist/aos.css'
 
+
 import { useEffect } from 'react';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -233,7 +234,7 @@ const Home = () => {
                                 </Tooltip>
                             </Link>
 
-                            <Link href='linkedin.com/in/mo-farhan786/' target="_blank">
+                            <Link href='https://www.linkedin.com/in/mo-farhan786/' target="_blank">
                                 <Tooltip label='Mo-Farhan'>
                                     <Box className='social-icons'>
                                         <Box>
