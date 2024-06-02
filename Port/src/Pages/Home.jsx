@@ -6,6 +6,7 @@ import Aos from 'aos';
 import 'aos/dist/aos.css'
 
 
+
 import { useEffect } from 'react';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
@@ -104,7 +105,7 @@ const Home = () => {
                             <Image
                                 borderRadius='full'
                                 boxSize='250px'
-                                src='/portfolio-profile-pic.png'
+                                src='https://farhahn.github.io/portfolio-images/portfolio-profile-pic.png'
                                 alt='Mo Farhan Avatar' />
                             <Svg3 />
                         </Flex>
